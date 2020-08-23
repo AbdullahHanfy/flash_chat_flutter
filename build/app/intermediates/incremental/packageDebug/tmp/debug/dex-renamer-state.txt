@@ -1,0 +1,10 @@
+#Thu Aug 06 16:47:27 EET 2020
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/media/abdullahhanfy/54D440C3D440A8D6/Abdullah/Flutter_linux/projects/flash-chat-flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes3.dex
+base.1=/media/abdullahhanfy/54D440C3D440A8D6/Abdullah/Flutter_linux/projects/flash-chat-flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes2.dex
+base.0=/media/abdullahhanfy/54D440C3D440A8D6/Abdullah/Flutter_linux/projects/flash-chat-flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
